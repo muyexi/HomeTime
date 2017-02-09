@@ -1,0 +1,27 @@
+PODS:
+  - Alamofire (4.3.0)
+  - DateTools (1.7.0)
+  - Kiwi (2.4.0)
+  - ObjectMapper (2.2.2)
+  - Reveal-SDK (6)
+  - SVProgressHUD (2.1.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - DateTools
+  - Kiwi (~> 2.4)
+  - ObjectMapper (~> 2.0)
+  - Reveal-SDK
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  DateTools: 53288ee8b905fdc75897a1e6b5cc0144b14cba60
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+  ObjectMapper: 9e385c2295bcc4e16eabbcfc85db801442bba545
+  Reveal-SDK: 67460e58f93711c7b18631d12c2b5de7740e48b5
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+
+PODFILE CHECKSUM: 470edbd10fc2a0952a6da8967befbb8e684562c0
+
+COCOAPODS: 1.2.0
